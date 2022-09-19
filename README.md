@@ -1,5 +1,8 @@
 # math_demo
 my math demo
+
+## 01 双三次插值
+https://blog.csdn.net/qq_41188371/article/details/113877271
 ```python
 from PIL import Image
 import numpy as np
